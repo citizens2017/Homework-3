@@ -1,0 +1,94 @@
+.logo{
+    display: inline-block;
+    float: left;
+    font-family: Arial; 
+    color:#817570;
+    font-size: 26px;
+    margin-left: 35px;
+    
+}
+
+.logobutton{
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 16px;
+    font-style: Arial;
+    width: 80px;
+    height: 37px;
+    float:right;
+    margin: 4px;
+    color:blue;
+    background-color: transparent;
+    border-color: transparent;
+    margin-right: 35px;
+
+
+}
+
+.logobutton:hover{
+    border-color: transparent;
+    color:white;
+    background-color: #337ab7;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    color:#2e3032;
+    font-family: Arial;
+}
+.borderedtext{
+    border-radius: 7px;
+    background-color: #eeeeee;
+    color: #5c4f45;
+    text-align: center;
+    padding: 5%;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 35px;
+}
+
+.greenbutton{
+    color: white;
+    background-color: #5cb85c;
+    border-radius: 3px;
+    border-color: transparent;
+    padding: 13px;
+    margin-top: 20px !important;
+    margin: 35px;
+    font-size: 18px;
+}
+
+.leftborder{
+    font-family: Arial;
+    padding-right: 300px;
+    font-size: 22px;
+    display: inline-block;
+    margin: 35px;
+    width: 30%;
+    clear:both;
+    color:#797171;
+}
+
+.rightborder{
+    font-family: Arial;
+    font-size: 22px;
+    display: inline-block;
+    margin: 35px;
+    width: 30%;
+    clear:both;
+    color:#797171;
+        
+}
+
+header{
+font-size: 15px;
+color:#968C8C;
+}
+
+h5{
+    font-size: 26px;
+}
+p. dline {
+     line-height: 1;
+}
